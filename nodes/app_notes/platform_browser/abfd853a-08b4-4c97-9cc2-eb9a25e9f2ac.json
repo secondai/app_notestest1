@@ -1,9 +1,5 @@
 {
-  "name": "abfd853a-08b4-4c97-9cc2-eb9a25e9f2ac",
-  "nodeId": "5ac3469d94d50e001cc45122",
   "type": "incoming_query_function:0.0.1:local:2389f3923",
-  "data": null,
-  "active": true,
-  "createdAt": 1522747057387,
-  "updatedAt": null
+  "name": "abfd853a-08b4-4c97-9cc2-eb9a25e9f2ac",
+  "data": null
 }

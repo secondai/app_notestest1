@@ -1,11 +1,7 @@
 {
-  "name": "5152bc36-b4b2-4a91-b217-4930baca24ab",
-  "nodeId": "5ac346c394d50e001cc45159",
   "type": "text_tag:0.0.1:local:239fj23",
+  "name": "5152bc36-b4b2-4a91-b217-4930baca24ab",
   "data": {
     "text": "Capability: IdentifyInitiate"
-  },
-  "active": true,
-  "createdAt": 1522747076591,
-  "updatedAt": null
+  }
 }

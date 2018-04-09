@@ -1,6 +1,6 @@
 {
-  "name": "app_notes",
   "type": "app_base:Qmtesting",
+  "name": "app_notes",
   "data": {
     "appId": "0f52e5ba-96ac-4bea-b575-e3be050af37b",
     "name": "Notes",
@@ -10,8 +10,5 @@
     "owner": "secondai",
     "defaultBranch": "master",
     "repo": "app_notestest1"
-  },
-  "active": true,
-  "createdAt": 1522747136301,
-  "updatedAt": 1523304944404
+  }
 }

@@ -1,12 +1,8 @@
 {
-  "name": "4560202b-7bf6-4396-9022-230aa162a700",
-  "nodeId": "5ac3469d94d50e001cc45122",
   "type": "capability:0.0.1:local:187h78h23",
+  "name": "4560202b-7bf6-4396-9022-230aa162a700",
   "data": {
     "key": "Teacher",
     "version": "1.0.0"
-  },
-  "active": true,
-  "createdAt": 1522747088213,
-  "updatedAt": null
+  }
 }
