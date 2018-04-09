@@ -1,11 +1,7 @@
 {
-  "name": "cdd47277-acc4-40b5-9498-46a2a3ce4571",
-  "nodeId": "5ac346b694d50e001cc45147",
   "type": "incoming_query_type_matcher:0.0.1:local:3242rx23rd3",
+  "name": "cdd47277-acc4-40b5-9498-46a2a3ce4571",
   "data": {
     "typeMatch": "ping:0.0.1:local:239fh298fh239h23"
-  },
-  "active": true,
-  "createdAt": 1522747064262,
-  "updatedAt": null
+  }
 }
