@@ -1,0 +1,14 @@
+{
+  "name": "platform_browser",
+  "nodeId": "5ac3470094d50e001cc4516d",
+  "type": "platform_nodes:Qmtlksjflsdjfljf",
+  "data": {
+    "platform": "browser",
+    "defaultBranch": "master",
+    "repo": "bundle_browser_user",
+    "owner": "secondai"
+  },
+  "active": true,
+  "createdAt": 1522747037225,
+  "updatedAt": 1523303477525
+}

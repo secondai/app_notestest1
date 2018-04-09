@@ -1,0 +1,11 @@
+{
+  "name": "824f883d-6bfa-4317-8159-e4ea36634627",
+  "nodeId": "5ac346b194d50e001cc4513f",
+  "type": "text_tag:0.0.1:local:239fj23",
+  "data": {
+    "text": "run_action_sequence: This is for handling a sequence of actions!"
+  },
+  "active": true,
+  "createdAt": 1522747057952,
+  "updatedAt": null
+}
