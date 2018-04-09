@@ -1,11 +1,7 @@
 {
-  "name": "57248fe3-869b-4b2d-8b2c-af250719c5e8",
-  "nodeId": "5ac346b194d50e001cc4513f",
   "type": "incoming_query_type_matcher:0.0.1:local:3242rx23rd3",
+  "name": "57248fe3-869b-4b2d-8b2c-af250719c5e8",
   "data": {
     "typeMatch": "run_action_sequence:0.0.1:local:293fh8239hsdf23f"
-  },
-  "active": true,
-  "createdAt": 1522747058538,
-  "updatedAt": null
+  }
 }
