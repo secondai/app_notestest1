@@ -1,11 +1,7 @@
 {
-  "name": "ccf67003-a390-4dad-b655-538c93cd3c3a",
-  "nodeId": "5ac346b994d50e001cc4514b",
   "type": "text_tag:0.0.1:local:239fj23",
+  "name": "ccf67003-a390-4dad-b655-538c93cd3c3a",
   "data": {
     "text": "ACTION: create a new RSA keypair and store locally"
-  },
-  "active": true,
-  "createdAt": 1522747067421,
-  "updatedAt": null
+  }
 }
