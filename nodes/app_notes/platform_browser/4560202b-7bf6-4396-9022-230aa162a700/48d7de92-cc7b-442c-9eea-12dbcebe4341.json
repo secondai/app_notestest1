@@ -1,9 +1,5 @@
 {
-  "name": "48d7de92-cc7b-442c-9eea-12dbcebe4341",
-  "nodeId": "5ac346d094d50e001cc45169",
   "type": "common_type:0.0.1:local:298fh29h2323f",
-  "data": "capability",
-  "active": true,
-  "createdAt": 1522747091913,
-  "updatedAt": null
+  "name": "48d7de92-cc7b-442c-9eea-12dbcebe4341",
+  "data": "capability"
 }
